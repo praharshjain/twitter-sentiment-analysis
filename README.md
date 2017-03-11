@@ -24,7 +24,7 @@ $ python -m textblob.download_corpora
 ####Authentication:
 In order to fetch tweets through Twitter API, one needs to register an App through their twitter account.  
 Follow these steps for the same:  
-* Open this link and click the button: 'Create New App'  
+* Open this [link](https://apps.twitter.com/) and click the button: 'Create New App'  
 * Fill the application details. You can leave the callback url field empty.  
 * Once the app is created, you will be redirected to the app page.  
 * Open the 'Keys and Access Tokens' tab.  
