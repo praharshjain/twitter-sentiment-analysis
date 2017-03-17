@@ -1,6 +1,7 @@
 twitter-sentiment-analysis
-==========
-Twitter Sentiment Analysis using Python
+==========  
+Twitter Sentiment Analysis using Python  
+
 Usage
 ----------------
 #### Installation:
